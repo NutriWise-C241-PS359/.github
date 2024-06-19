@@ -18,7 +18,7 @@ Hi everyone! We are from C241-PS359. We consist of 7 people and these are our te
 # Tech Stack
 ### Machine Learning
 - Tech Stack: TensorFlow & Keras.
-- [Train Model Repositories](): Contains trained models for image recognition.
+- [Train Model Repositories](): Contains trained models for calculate calories and food recommendations.
 ### Cloud Computing
 - Tech Stack: Node.js, Express.js.
 - Authentication Repositories: Implements secure authentication featuresand edit profile.
