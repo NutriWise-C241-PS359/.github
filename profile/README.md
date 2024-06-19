@@ -3,8 +3,8 @@ NutriWise is a healthy food recommendation application designed to help users ma
 
 # Introduction 👋
 Hi everyone! We are from C241-PS359. We consist of 7 people and these are my team members:
-| ID       | Name                             | Learning Path
-|---------------|-----------------------------------------|
+| ID       | Name                             | Learning Path |
+| :---: | :---: | :---: |
 | M008D4KY1694     | Bryan Florentino Leo                     | Machine Learning  |
 | M183D4KX3239     | Aisyah Shafira                     | Machine Learning  |
 | M008D4KX3202     | Silvy Aqila Maharani                     | Machine Learning  |
