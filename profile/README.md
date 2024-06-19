@@ -1,5 +1,5 @@
 # NutriWise: Healthy Food Recommendation
-Welcome to NutriWise, a capstone project that provides personalized healthy food recommendations based on your caloric needs. NutriWise helps users track their daily calorie requirements, offers food recommendations to meet those needs, and provides a map of recommended food sources. It also allows users to set calorie goals to achieve specific weight targets.
+Welcome to NutriWise, a project that provides personalized healthy food recommendations based on your caloric needs. NutriWise helps users track their daily calorie requirements, offers food recommendations to meet those needs, and provides a map of recommended food sources. It also allows users to set calorie goals to achieve specific weight targets.
 
 # Overview
 NutriWise is a recommendation system that suggests healthy food options based on users' daily caloric needs. By considering users' health goals and preferences, NutriWise aims to help users maintain or achieve their desired weight in a healthy manner.
