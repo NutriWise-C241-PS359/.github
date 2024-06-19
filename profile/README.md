@@ -1,5 +1,8 @@
-# NutriWise
-NutriWise is a healthy food recommendation application designed to help users make informed dietary choices. By analyzing user preferences and nutritional needs, NutriWise suggests balanced meals that align with their health goals.
+# NutriWise: Healthy Food Recommendation
+Welcome to NutriWise, a capstone project that provides personalized healthy food recommendations based on your caloric needs. NutriWise helps users track their daily calorie requirements, offers food recommendations to meet those needs, and provides a map of recommended food sources. It also allows users to set calorie goals to achieve specific weight targets.
+
+# Overview
+NutriWise is a recommendation system that suggests healthy food options based on users' daily caloric needs. By considering users' health goals and preferences, NutriWise aims to help users maintain or achieve their desired weight in a healthy manner.
 
 # Introduction 👋
 Hi everyone! We are from C241-PS359. We consist of 7 people and these are our team members:
@@ -14,6 +17,10 @@ Hi everyone! We are from C241-PS359. We consist of 7 people and these are our te
 | A008D4KX3432     | Tiara Myristica Maitsa                     | Mobile Development  |
 
 # Feature
+- **Calorie Requirement Calculation**: Calculates daily caloric needs based on user profile data.
+- **Food Recommendations**: Provides food suggestions to meet daily caloric requirements.
+- **Maps Integration**: Displays locations of recommended food sources.
+- **Calorie Goals**: Allows users to set and track calorie intake targets to achieve specific weight goals.
 
 # Tech Stack
 ### Machine Learning
