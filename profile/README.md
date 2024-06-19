@@ -15,7 +15,17 @@ Hi everyone! We are from C241-PS359. We consist of 7 people and these are our te
 
 # Feature
 
-# Installation
+# Tech Stack
+### Machine Learning
+- Tech Stack: TensorFlow & Keras.
+- [Train Model Repositories](): Contains trained models for image recognition.
+### Cloud Computing
+- Tech Stack: FastAPI, Firebase, Node.js, Express.js.
+- Authentication Repositories: Implements secure authentication featuresand edit profile.
+- [API Repositories](): Handles ML model API and fetches details from the database.
+### Mobile Development
+- Tech Stack: Android SDK, Kotlin, Retrofit.
+- [App Repositories]()
 
 # Contributing
 Read [contributing guide](CONTRIBUTING.md) to find out more about how to contribute to this project.
