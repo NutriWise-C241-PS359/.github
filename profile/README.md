@@ -14,3 +14,11 @@ Hi everyone! We are from C241-PS359. We consist of 7 people and these are our te
 | A008D4KX3432     | Tiara Myristica Maitsa                     | Mobile Development  |
 
 # Feature
+
+# Installation
+
+# Contributing
+Read [contributing guide](CONTRIBUTING.md) to find out more about how to contribute to this project.
+
+# Contact
+For any questions or feedback, please contact us at [Nutriwise](mailto:123210083@gmail.com)
