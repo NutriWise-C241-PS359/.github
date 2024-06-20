@@ -28,7 +28,7 @@ Hi everyone! We are from C241-PS359. We consist of 7 people and these are our te
 - [Train Model Repositories](https://github.com/NutriWise-C241-PS359/machine-learning): Contains trained models for calculate calories and food recommendations.
 ### Cloud Computing
 - Tech Stack: Node.js, Express.js.
-- Authentication Repositories: Implements secure authentication featuresand edit profile.
+- Authentication Repositories: Implements secure authentication features.
 - [Backend Repositories](https://github.com/NutriWise-C241-PS359/nutriwise-backend.git): Handles ML model and fetches details from the database.
 ### Mobile Development
 - Tech Stack: Android SDK, Kotlin, Retrofit.
